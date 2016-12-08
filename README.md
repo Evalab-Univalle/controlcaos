@@ -1,0 +1,3 @@
+# controlcaos
+CONTROL DE SISTEMAS DINÁMICOS CAÓTICOS USANDO ALGORITMOS EVOLUTIVOS. Trabajo de grado de Cristian Rios.
+En el presente trabajo se plantea el desarrollo de un proyecto en torno a la siguiente pregunta: ¿Es posible mantener estable un sistema dinámico que a pesar de ser determinista, puede llegar a presentar comportamientos impredecibles? Para dar respuesta a este interrogante se definen un conjunto de objetivos que permiten abordar el estudio de sistemas dinámicos, sistemas caóticos y técnicas de control existente para este tipo de sistemas. Teniendo esta información, finalmente se plantea el uso de algoritmos evolutivos como una técnica que puede ser usada en el control de sistemas dinámicos caóticos.
